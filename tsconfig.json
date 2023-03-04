@@ -1,0 +1,7 @@
+{
+  "extends": "@tsconfig/node18-strictest-esm/tsconfig.json",
+
+  "ts-node": {
+    "files": true
+  }
+}
