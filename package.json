@@ -9,6 +9,10 @@
     "start": "ts-node --esm index.ts"
   },
   "prettier": "@kiwikilian/prettier-config",
+  "engines": {
+    "node": "18.14.2",
+    "npm": "9.6.0"
+  },
   "dependencies": {
     "@maplibre/maplibre-gl-native": "5.2.0-pre.0",
     "@types/sharp": "0.31.1",
